@@ -27,7 +27,7 @@
     "express-session": "^1.17.1",
     "mongoose": "^5.9.26",
     "redis": "^3.0.2",
-    "socket.io": "^2.3.0",
+    "socket.io": "^2.5.0",
     "uuid": "^8.2.0"
   },
   "devDependencies": {
